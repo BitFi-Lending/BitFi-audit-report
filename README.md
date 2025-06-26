@@ -6,9 +6,8 @@ This repository contains the formal smart contract audit report for the **BitFi:
 
 **Protocol Name:** BitFi  
 **Protocol Focus:** Bitcoin-backed lending Protocol 
-**Audit Firm:** Defense  
 **Audit Date:** June 2025  
-**Status:** ✅ Completed
+**Status:** Completed
 
 ## 🔒 About BitFi
 
