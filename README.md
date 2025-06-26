@@ -1,4 +1,4 @@
-# BitFi-audit-report
+# BitFi: Audit Report
 
 This repository contains the formal smart contract audit report for the **BitFi: Bitcoin Lending Protocol**, conducted by [Defense](https://thesis.co/defense) — the leading security auditor in the Bitcoin cosystem.
 
@@ -34,14 +34,8 @@ The audit covered the following core components of BitFi:
 - Oracle integration
 - Upgradeability patterns
 
-> ☑️ Detailed findings and remediation status can be found in the full audit report below.
-
 
 ## 📬 Contact
 
 - Protocol team: https://x.com/bit_fi_
 - Audit firm: https://x.com/defense_audits
-
----
-
-*This repository is maintained for transparency and community reference purposes. Please always verify smart contract addresses and audit hashes from official BitFi sources.*
