@@ -36,5 +36,5 @@ The audit covered the following core components of BitFi:
 
 ## 📬 Contact
 
-- Protocol team: https://x.com/bit_fi_
+- Protocol team: https://x.com/bit_fi_ 
 - Audit firm: https://x.com/defense_audits
