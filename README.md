@@ -1,4 +1,4 @@
-# BitFi: Audit Report
+# 🟧 BitFi: Audit Report
 
 This repository contains the formal smart contract audit report for the **BitFi: Bitcoin Lending Protocol**, conducted by [Defense](https://thesis.co/defense) — the leading security auditor in the Bitcoin cosystem.
 
